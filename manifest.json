@@ -1,9 +1,11 @@
-الأخيرة",
-  "short_name": "مساعد الحرب",
-  "start_url": "/",
+{
+  "name": "مساعد الحرب الأخيرة",
+  "short_name": "الحرب",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#6200ea",
+  "theme_color": "#2c3e50",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "icon-192.png",
