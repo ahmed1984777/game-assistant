@@ -6,6 +6,12 @@
   "background_color": "#ffffff",
   "theme_color": "#2c3e50",
   "orientation": "portrait",
+  "description": "تطبيق ذكي يقدم إجابات ومساعدة للاعبين في لعبة الحرب الأخيرة.",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["ألعاب", "استراتيجية"],
+  "prefer_related_applications": false,
+  "scope": "/",
   "icons": [
     {
       "src": "icon-192.png",
