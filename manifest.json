@@ -3,6 +3,7 @@
   "short_name": "الحرب",
   "description": "تطبيق مساعد ذكي للاعبي لعبة الحرب الأخيرة، يقدم إجابات سريعة، تعليمات، ومتابعة لأحداث اللعبة والمهام اليومية.",
   "lang": "ar",
+  https://github.com/ahmed1984777/game-assistant/blob/main/manifest.json
   "dir": "rtl",
   "start_url": "index.html",
   "scope": "./",
